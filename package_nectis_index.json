@@ -1,13 +1,7 @@
 {
   "packages": [
     {
-      "name": "nectis",
-      "maintainer": "CAMI&Co.",
       "websiteURL": "https://cami.jp/",
-      "email": "contact@cami.jp",
-      "help": {
-        "online": "https://github.com/cami/ArduinoCore-nRF52840/issues"
-      },
       "tools": [
         {
           "systems": [
@@ -78,30 +72,35 @@
           "version": "9.4.0"
         }
       ],
+      "name": "Nectis",
+      "email": "contact@cami.jp",
+      "help": {
+        "online": "https://github.com/cami/ArduinoCore-nRF52840/issues"
+      },
+      "maintainer": "CAMI&Co.",
       "platforms": [
         {
-          "name": "Nectis nRF52",
+          "boards": [
+            {"name": "CAMI qibanca nectis sIoTamago"}
+          ],
           "architecture": "nrf52",
-          "version": "0.3.0",
+          "name": "Nectis nRF52",
           "category": "Contributed",
+          "version": "0.3.0",
+          "archiveFileName": "v0.3.0.tar.gz",
+          "checksum": "SHA-256:d99ed42ee08a4b430563b02f5198cabfec5330889aef889e9f89c40fedd7263e",
           "help": {
             "online": "https://github.com/cami/ArduinoCore-nRF52840/issues"
           },
           "url": "https://github.com/cami/ArduinoCore-nRF52840/archive/v0.3.0.tar.gz",
-          "archiveFileName": "v0.3.0.tar.gz",
-          "checksum": "SHA-256:d99ed42ee08a4b430563b02f5198cabfec5330889aef889e9f89c40fedd7263e ",
-          "size": "43136",
-          "boards": [
-            {"name": "CAMI qibanca nectis sIoTamago"}
-          ],
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
               "packager": "adafruit",
               "version": "5_2-2015q4"
             }
-          ]
-
+          ],
+          "size": "43136"
         }
       ]
     }
