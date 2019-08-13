@@ -75,7 +75,7 @@
       "name": "Nectis",
       "email": "contact@cami.jp",
       "help": {
-        "online": "https://github.com/cami/ArduinoCore-nRF52840/issues"
+        "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
       },
       "maintainer": "CAMI&Co.",
       "platforms": [
@@ -88,11 +88,11 @@
           "category": "Contributed",
           "version": "0.3.0",
           "archiveFileName": "v0.3.0.tar.gz",
-          "checksum": "SHA-256:d99ed42ee08a4b430563b02f5198cabfec5330889aef889e9f89c40fedd7263e",
+          "checksum": "SHA-256:56d8044d7d74650f2ac29b9197435802123186321588aa7cbefe9a4756887531",
           "help": {
-            "online": "https://github.com/cami/ArduinoCore-nRF52840/issues"
+            "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
           },
-          "url": "https://github.com/cami/ArduinoCore-nRF52840/archive/v0.3.0.tar.gz",
+          "url": "https://github.com/cami/ArduinoCore-nRF52/archive/v0.3.0.tar.gz",
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
@@ -100,7 +100,7 @@
               "version": "5_2-2015q4"
             }
           ],
-          "size": "43136"
+          "size": "33688"
         }
       ]
     }
