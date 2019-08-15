@@ -120,16 +120,16 @@
           "category": "Contributed",
           "version": "0.3.2",
           "archiveFileName": "v0.3.2.tar.gz",
-          "checksum": "SHA-256:8dc4836c7350f49d414518aac370160691791747b1a558baaf856b0374192bc9",
+          "checksum": "SHA-256:8b3c1c3a6459fac42c86facb1ae93a8ebe53f8a4c2ee64fe3399aeb09a14e0dc",
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Contributed",
+              "packager": "Nectis",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Contributed",
+              "packager": "Nectis",
               "version": "9.4.0"
             }
           ],
@@ -137,7 +137,7 @@
             "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
           },
           "url": "https://github.com/cami/ArduinoCore-nRF52/archive/v0.3.2.tar.gz",
-          "size": "35304"
+          "size": "35264"
         }
       ]
     }
