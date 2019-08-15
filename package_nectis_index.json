@@ -83,6 +83,18 @@
           "boards": [
             {"name": "CAMI qibanca nectis sIoTamago"}
           ],
+          "toolsDependencies": [
+            {
+              "packager": "adafruit",
+              "name": "gcc-arm-none-eabi",
+              "version": "5_2-2015q4"
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
+          ],
           "architecture": "nrf52",
           "name": "Nectis nRF52",
           "category": "Contributed",
@@ -93,18 +105,23 @@
             "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
           },
           "url": "https://github.com/cami/ArduinoCore-nRF52/archive/v0.3.0.tar.gz",
-          "toolsDependencies": [
-            {
-              "name": "gcc-arm-none-eabi",
-              "packager": "adafruit",
-              "version": "5_2-2015q4"
-            }
-          ],
           "size": "33688"
         },
         {
           "boards": [
             {"name": "CAMI qibanca nectis sIoTamago"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "adafruit",
+              "name": "gcc-arm-none-eabi",
+              "version": "5_2-2015q4"
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
           ],
           "architecture": "nrf52",
           "name": "Nectis nRF52",
@@ -116,13 +133,6 @@
             "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
           },
           "url": "https://github.com/cami/ArduinoCore-nRF52/archive/v0.3.1.tar.gz",
-          "toolsDependencies": [
-            {
-              "name": "gcc-arm-none-eabi",
-              "packager": "adafruit",
-              "version": "5_2-2015q4"
-            }
-          ],
           "size": "34944"
         }
       ]
