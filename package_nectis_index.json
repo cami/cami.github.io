@@ -316,7 +316,7 @@
           "category": "Contributed",
           "version": "0.3.9",
           "archiveFileName": "v0.3.9.tar.gz",
-          "checksum": "SHA-256:aa4475503a9e4f3db9f9e20f725d06543ec820b9767c710d6250e2d415b74013",
+          "checksum": "SHA-256:da93c55780690080d094fa7153488b8ea9f54e427aa44e8ef2bc3d3dadf908f4",
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
@@ -333,7 +333,7 @@
             "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
           },
           "url": "https://github.com/cami/ArduinoCore-nRF52/archive/v0.3.9.tar.gz",
-          "size": "36944"
+          "size": "36960"
         }
       ]
     }
