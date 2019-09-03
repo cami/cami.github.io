@@ -390,6 +390,34 @@
           },
           "url": "https://github.com/cami/ArduinoCore-nRF52/archive/v0.4.0.tar.gz",
           "size": "36944"
+        },
+        {
+          "boards": [
+            {"name": "CAMI qibanca nectis sIoTamago"}
+          ],
+          "architecture": "nrf52",
+          "name": "Nectis nRF52",
+          "category": "Contributed",
+          "version": "0.4.1",
+          "archiveFileName": "v0.4.1.tar.gz",
+          "checksum": "SHA-256:85e9e0aa5a9fdab15492ff9226c79bbed557ba9c75fc0e8246710888ed790e9c",
+          "toolsDependencies": [
+            {
+              "name": "gcc-arm-none-eabi",
+              "packager": "Nectis",
+              "version": "5_2-2015q4"
+            },
+            {
+              "name": "nrfjprog",
+              "packager": "Nectis",
+              "version": "9.4.0"
+            }
+          ],
+          "help": {
+            "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
+          },
+          "url": "https://github.com/cami/ArduinoCore-nRF52/archive/v0.4.1.tar.gz",
+          "size": "36840"
         }
       ]
     }
