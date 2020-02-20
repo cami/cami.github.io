@@ -124,12 +124,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -152,12 +152,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -180,12 +180,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -208,12 +208,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -236,12 +236,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -264,12 +264,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -292,12 +292,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -320,12 +320,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -348,12 +348,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -376,12 +376,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -404,12 +404,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -432,12 +432,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
@@ -460,12 +460,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
