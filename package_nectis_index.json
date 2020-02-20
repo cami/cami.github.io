@@ -72,7 +72,7 @@
           "version": "9.4.0"
         }
       ],
-      "name": "Nectis",
+      "name": "cami",
       "email": "contact@cami.jp",
       "help": {
         "online": "https://github.com/cami/ArduinoCore-nRF52/issues"
@@ -488,12 +488,12 @@
           "toolsDependencies": [
             {
               "name": "gcc-arm-none-eabi",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "5_2-2015q4"
             },
             {
               "name": "nrfjprog",
-              "packager": "Nectis",
+              "packager": "cami",
               "version": "9.4.0"
             }
           ],
